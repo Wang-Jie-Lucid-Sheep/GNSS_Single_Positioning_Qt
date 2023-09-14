@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>diqiu.ico</file>
+        <file>lingmeng.jpg</file>
+        <file>cszx.wav</file>
+    </qresource>
+</RCC>

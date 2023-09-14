@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>绘图</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="_resource.qrc">
+    <normaloff>:/new/diqiu.ico</normaloff>:/new/diqiu.ico</iconset>
+  </property>
+ </widget>
+ <resources>
+  <include location="_resource.qrc"/>
+ </resources>
+ <connections/>
+</ui>
